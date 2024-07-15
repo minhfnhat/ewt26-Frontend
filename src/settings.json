@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unlock creativity and bring your visionary ideas to life with [Product Name]. Transform the way you innovate in the [Industry], powered by the excellence of [Brand Voice].",
+        "title": "Your Gateway to Unlimited Inspiration"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock creativity and bring your visionary ideas to life with [Product Name]. Transform the way you innovate in the [Industry], powered by the excellence of [Brand Voice].",
+        "title": "Your Gateway to Unlimited Inspiration"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unlock creativity and bring your visionary ideas to life with [Product Name]. Transform the way you innovate in the [Industry], powered by the excellence of [Brand Voice].",
+        "title": "Your Gateway to Unlimited Inspiration"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unlock creativity and bring your visionary ideas to life with [Product Name]. Transform the way you innovate in the [Industry], powered by the excellence of [Brand Voice].",
+        "title": "Your Gateway to Unlimited Inspiration"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock creativity and bring your visionary ideas to life with [Product Name]. Transform the way you innovate in the [Industry], powered by the excellence of [Brand Voice].",
+        "title": "Your Gateway to Unlimited Inspiration"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unlock creativity and bring your visionary ideas to life with [Product Name]. Transform the way you innovate in the [Industry], powered by the excellence of [Brand Voice].",
+        "title": "Your Gateway to Unlimited Inspiration"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unlock creativity and bring your visionary ideas to life with [Product Name]. Transform the way you innovate in the [Industry], powered by the excellence of [Brand Voice].",
+        "title": "Your Gateway to Unlimited Inspiration"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock creativity and bring your visionary ideas to life with [Product Name]. Transform the way you innovate in the [Industry], powered by the excellence of [Brand Voice].",
+        "title": "Your Gateway to Unlimited Inspiration"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Your Gateway to Unlimited Inspiration",
+  "subtitle": "Unlock creativity and bring your visionary ideas to life with [Product Name]. Transform the way you innovate in the [Industry], powered by the excellence of [Brand Voice]."
+}
